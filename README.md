@@ -105,8 +105,9 @@ Email: test@example.com
 Password: Admin@123
 
 🏪 Store Owner
-Email: owner@example.com
+Email:    owner@example.com
 Password: Owner@123
+
 
 👤 Normal User
 Email: user@example.com
